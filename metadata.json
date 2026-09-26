@@ -1,0 +1,6 @@
+{
+  "name": "Taka Income App",
+  "description": "Taka Income App - Work • Earn • Withdraw. A modern, high-quality, fully responsive financial earning platform with tasks, wallet, bKash/Nagad withdrawals, daily bonus streaks, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
